@@ -1,14 +1,30 @@
 ## **_<font color = "red">Agent</font><font color = "blue">ly</font>_ 3.0 Guidebook**
 
+**`[Important]`** Agently AI开发框架中文首页改版已经完成，模型切换、AgenticRequest、Workflow全新教程文档全面更新，请访问:[Agently.cn](https://agently.cn)查看
+
+**`[Important]`** We'll rewrite repo homepage soon to tell you more about our recently work, please wait for it.
+
+[Showcase Repo]Agently Daily News Collector: [English](https://github.com/AgentEra/Agently-Daily-News-Collector) | [新闻汇总报告生成器开源项目](https://github.com/AgentEra/Agently-Daily-News-Collector/blob/main/README_CN.md)
+
+**`[hot]`** 中文版由浅入深开发文档：[点此访问，一步一步解锁复杂LLMs应用开发技能点](https://github.com/Maplemx/Agently/blob/main/docs/guidebook/Agently_step_by_step_guide.ipynb)
+
 > 📥 How to use: `pip install -U Agently`
 >
 > 💡 Ideas / Bug Report: [Report Issues Here](https://github.com/Maplemx/Agently/issues)
 >
-> 📧 Email Us: [developer@agently.cn](mailto:developer@agently.cn)
+> 📧 Email Us: [developer@agently.cn](mailto:developer@agently.tech)
 >
-> 👾 Discord Group: [Click Here to Join](https://discord.gg/4HnarMBpYT)
+> 👾 Discord Group:
 >
-> 💬 WeChat Group: [Click Here to Apply](https://doc.weixin.qq.com/forms/AIoA8gcHAFMASAAiQZQABIeD2vLjuGQef)
+> [Click Here to Join](https://discord.gg/4HnarMBpYT) or Scan the QR Code Down Below
+>
+> <img width="120" alt="image" src="https://github.com/Maplemx/Agently/assets/4413155/089c239c-6133-4844-840c-b48c42ccbad1">
+>
+> 💬 WeChat Group（加入微信群）:
+>
+>  [Click Here to Apply](https://doc.weixin.qq.com/forms/AIoA8gcHAFMAScAhgZQABIlW6tV3l7QQf) or Scan the QR Code Down Below
+>
+> <img width="120" alt="image" src="https://github.com/Maplemx/Agently/assets/4413155/7f4bc9bf-a125-4a1e-a0a4-0170b718c1a6">
 > 
 > If you like this project, please ⭐️, thanks.
 
